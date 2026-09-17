@@ -10,3 +10,10 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love cinammon!
 -->
+
+- 🔭 I’m currently working on sleeping a bit more.
+- 🌱 I’m currently learning how to code in Java
+- 💬 Ask me about swimming or piano.
+- 📫 How to reach me: jrtorres@mail.wlu.edu
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I love cinammon!

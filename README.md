@@ -3,17 +3,8 @@
 <!--
 **JulissaTorres20/JulissaTorres20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-- 🔭 I’m currently working on sleeping a bit more.
-- 🌱 I’m currently learning how to code in Java
-- 💬 Ask me about swimming or piano.
-- 📫 How to reach me: jrtorres@mail.wlu.edu
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I love cinammon!
--->
+- I am an avid traveller!
+- If you ever wanna swim or run, let me know!
+- My email: jrtorres@mail.wlu.edu
+- Anything with cinnamon will be accepted
 
-- 🔭 I’m currently working on sleeping a bit more.
-- 🌱 I’m currently learning how to code in Java
-- 💬 Ask me about swimming or piano.
-- 📫 How to reach me: jrtorres@mail.wlu.edu
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I love cinammon!
